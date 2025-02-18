@@ -12,7 +12,7 @@ Download [Anaconda](https://www.anaconda.com/download/success) as a Python packa
 
 In your Python environment, install the following packages:
 ```
-pip install numpy matplotlib scipy notebook
+pip install numpy matplotlib scipy notebook ipywidgets
 ```
 
 Later, we also need the following packages for [PyTorch](https://pytorch.org/):
